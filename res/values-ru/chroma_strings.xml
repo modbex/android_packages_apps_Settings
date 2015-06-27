@@ -27,7 +27,7 @@
     <string name="display_category_statusbar_options_title">Настройки строки состояния</string>
     <string name="display_category_recents_options_title">Настройки панели недавних приложений</string>
     <string name="display_category_power_options_title">Настройки меню выключения</string>
-    <string name="volume_rocker_other_title">Miscellaneous</string>
+    <string name="volume_rocker_other_title">Разное</string>
 
     <!-- Navigation Bar -->
     <string name="navigation_bar_title">Кнопки и расположение</string>
@@ -112,7 +112,7 @@
     <string name="recents_clear_all_location_bottom_left">Снизу слева</string>
 
     <!-- BitSyko Layers -->
-    <string name="bitsyko_layers">Layers</string>
+    <string name="bitsyko_layers">Слои</string>
 
     <!-- Volume Keys Media Control -->
     <string name="volume_keys_control_media_stream">Управление медиа</string>
